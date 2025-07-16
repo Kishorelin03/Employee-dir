@@ -31,8 +31,8 @@ This beginner-friendly project demonstrates the core concepts of Django includin
 <h2>🚀 Getting Started</h2>
 
 <h3>Step 1: Clone the Repository</h3>
-<pre><code>git clone https://github.com/yourusername/employee-directory.git
-cd employee-directory
+<pre><code>git clone https://github.com/Kishorelin03/Employee-dir.git
+cd Employee-dir
 </code></pre>
 
 <h3>Step 2: Create a Virtual Environment</h3>
