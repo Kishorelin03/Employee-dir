@@ -21,8 +21,8 @@ This beginner-friendly project demonstrates the core concepts of Django includin
   <td><strong>Employee Profile</strong></td>
 </tr>
 <tr>
-  <td><img src="screenshots/employee_list.png" width="400"/></td>
-  <td><img src="screenshots/employee_profile.png" width="400"/></td>
+  <td><img src="Screenshots/Screenshot1.png" width="400"/></td>
+  <td><img src="Screenshots/Screenshot2.png" width="400"/></td>
 </tr>
 </table>
 
